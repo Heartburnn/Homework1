@@ -43,7 +43,11 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+main {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
  
 /* text settings*/
 a {
